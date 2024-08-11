@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pages-Portfolio/static/css/main.22f50b74.css",
+    "main.js": "/Pages-Portfolio/static/js/main.01c4ca12.js",
+    "static/media/work4.jpg": "/Pages-Portfolio/static/media/work4.3831e868af03049652c2.jpg",
+    "static/media/about.jpg": "/Pages-Portfolio/static/media/about.f5e9349755ef31cb3e91.jpg",
+    "static/media/work3.jpg": "/Pages-Portfolio/static/media/work3.9203071da1742666e9d9.jpg",
+    "static/media/work2.jpg": "/Pages-Portfolio/static/media/work2.f566a70f62bff7667db0.jpg",
+    "static/media/work5.jpg": "/Pages-Portfolio/static/media/work5.f6e8fc12e63fe4739198.jpg",
+    "static/media/work6.jpg": "/Pages-Portfolio/static/media/work6.3a106f1c2e1a78bc86a3.jpg",
+    "static/media/work1.jpg": "/Pages-Portfolio/static/media/work1.d57496a4ca2e2ab1da2c.jpg",
+    "static/media/profile.jpg": "/Pages-Portfolio/static/media/profile.72762f087b225db2def0.jpg",
+    "static/media/Karthik_Valdas_Resume.pdf": "/Pages-Portfolio/static/media/Karthik_Valdas_Resume.c41631607b937cdad8d7.pdf",
+    "index.html": "/Pages-Portfolio/index.html",
+    "main.22f50b74.css.map": "/Pages-Portfolio/static/css/main.22f50b74.css.map",
+    "main.01c4ca12.js.map": "/Pages-Portfolio/static/js/main.01c4ca12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f50b74.css",
+    "static/js/main.01c4ca12.js"
+  ]
+}
